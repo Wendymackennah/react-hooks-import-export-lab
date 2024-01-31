@@ -9,3 +9,7 @@ function About() {
     </div>
   );
 }
+
+export default About;
+
+export const image = ".src/components/About.js";

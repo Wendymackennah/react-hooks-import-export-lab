@@ -9,3 +9,8 @@ function Home() {
     </div>
   );
 }
+
+export default Home;
+
+export const username = "src/components/Home.js ";
+export const city = "src/components/Home.js ";
